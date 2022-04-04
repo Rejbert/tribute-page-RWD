@@ -1,2 +1,2 @@
-# tribute-page-RWD-io
+# tribute-page-RWD
 Responsive Design
